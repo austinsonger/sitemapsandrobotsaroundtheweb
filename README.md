@@ -21,7 +21,7 @@ This is to be used for educational purposes and Security Researchers and Bug Bou
 ## Sitemaps
 > Only add sitemaps that are reasonable in size.
 
--[Sitemaps](Sitemaps/README.md)
+- [Sitemaps](Sitemaps/README.md)
 
 
 
