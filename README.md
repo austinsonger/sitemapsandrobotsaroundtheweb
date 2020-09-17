@@ -8,12 +8,12 @@ This is to be used for educational purposes and Security Researchers and Bug Bou
 
 ## US Companies
 - [Amazon](us-companies/amazon-robots.txt)
-- [Apple](us-companies/)
-- [Facebook](us-companies/)
-- [Github](us-companies/)
-- [Google](us-companies/)
-- [Target](us-companies/)
-- [Walmart](us-companies/)
+- [Apple](us-companies/apple-robots.txt)
+- [Facebook](us-companies/facebook-robots.txt)
+- [Github](us-companies/github-robots.txt)
+- [Google](us-companies/google-robots.txt)
+- [Target](us-companies/target-robots.txt)
+- [Walmart](us-companies/walmart-robots.txt)
 
 
 
