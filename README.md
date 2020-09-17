@@ -2,7 +2,6 @@
 > Robots.txt for websites around the world.
 
 
-
 This is to be used for educational purposes and Security Researchers and Bug Bounty Programs.
 
 
@@ -11,6 +10,7 @@ This is to be used for educational purposes and Security Researchers and Bug Bou
 - [Apple](us-companies/apple-robots.txt)
 - [Facebook](us-companies/facebook-robots.txt)
 - [Github](us-companies/github-robots.txt)
+- [Gitlab](us-companies/gitlab-robots.txt)
 - [Google](us-companies/google-robots.txt)
 - [Target](us-companies/target-robots.txt)
 - [Walmart](us-companies/walmart-robots.txt)
