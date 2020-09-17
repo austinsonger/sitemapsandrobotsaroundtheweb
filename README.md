@@ -5,20 +5,26 @@
 This is to be used for educational purposes and Security Researchers and Bug Bounty Programs.
 
 
-## US Companies
-- [Amazon](us-companies/amazon-robots.txt)
-- [Apple](us-companies/apple-robots.txt)
-- [Facebook](us-companies/facebook-robots.txt)
-- [Github](us-companies/github-robots.txt)
-- [Gitlab](us-companies/gitlab-robots.txt)
-- [Google](us-companies/google-robots.txt)
-- [Target](us-companies/target-robots.txt)
-- [Walmart](us-companies/walmart-robots.txt)
+## Robots.txt
+
+### US Companies
+- [Amazon](robots/us-companies/amazon-robots.txt)
+- [Apple](robots/us-companies/apple-robots.txt)
+- [Facebook](robots/us-companies/facebook-robots.txt)
+- [Github](robots/us-companies/github-robots.txt)
+- [Gitlab](robots/us-companies/gitlab-robots.txt)
+- [Google](robots/us-companies/google-robots.txt)
+- [Target](robots/us-companies/target-robots.txt)
+- [Walmart](robots/us-companies/walmart-robots.txt)
+
+
+## Sitemaps
+> Only add sitemaps that are reasonable in size.
 
 
 
 <!-- CONTRIBUTING -->
-## Contributing
+# Contributing
 
 Any contributions you make are **greatly appreciated**.
 
