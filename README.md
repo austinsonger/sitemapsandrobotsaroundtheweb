@@ -25,6 +25,11 @@ This is to be used for educational purposes and Security Researchers and Bug Bou
 
 
 
+## How To
+- [Robots.txt Basics](robots-basics.md)
+- [Sitemap Basics](sitemap-basics.md)
+
+
 <!-- CONTRIBUTING -->
 # Contributing
 
