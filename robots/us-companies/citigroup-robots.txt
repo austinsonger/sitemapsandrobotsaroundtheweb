@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /*&JFP_TOKEN=
+
+Sitemap: https://online.citibank.com/sitemap.xml
+Sitemap: https://online.citibank.com/help_item_sitemap.xml
+Sitemap: https://online.citi.com/loan-officer-sitemap.xml
